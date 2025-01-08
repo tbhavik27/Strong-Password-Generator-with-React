@@ -1,0 +1,59 @@
+body {
+  background-color: #513714; /* Light grey color */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff; /* White color for any additional paragraphs or text */
+  font-size: 1rem;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+  color: #ffffff; /* Change this color to any color you prefer */
+  font-size: 1rem;
+  font-weight: bold; /* Optional: Makes the label text bold */
+}
+
+.settings {
+  margin-bottom: 10px;
+}
+
+textarea {
+  margin: 10px 0;
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  background-color: #c8c8c8;
+  color: rgb(0, 0, 0);
+}
+
+button:hover {
+  background-color: #1d95f7;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
